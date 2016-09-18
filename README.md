@@ -1,0 +1,2 @@
+# XMLHttpRequest
+跨浏览器实例化XMLHttpRequest对象，处理AJAX响应
